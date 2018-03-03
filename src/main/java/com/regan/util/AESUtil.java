@@ -1,4 +1,4 @@
-package com.regan.java.util;
+package com.regan.util;
 
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;

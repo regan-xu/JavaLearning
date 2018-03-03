@@ -1,4 +1,4 @@
-package com.regan.java.util;
+package com.regan.util;
 
 import java.security.SecureRandom;
 
@@ -24,6 +24,7 @@ public class DESUtil {
 			cipher.init(Cipher.ENCRYPT_MODE, secretKey,secureRandom);
 			byte[] data = cipher.doFinal(inStr.getBytes());
 			return StringUtil.byteArrayToHexString(data);
+//          return  new String(Base64.getEncoder().encode(data));//直接用base64来转
 		} catch (Exception e) {
 			e.printStackTrace();
 			return null;
@@ -38,6 +39,7 @@ public class DESUtil {
 			Cipher cipher = Cipher.getInstance(DES);
 			cipher.init(Cipher.DECRYPT_MODE, secretKey,secureRandom);
 			byte[] data = cipher.doFinal(StringUtil.hexString2Bytes(inStr));
+//    		byte[] data = c.doFinal(Base64.getDecoder().decode(inStr));////直接用base64来转
 			return new String(data);
 		} catch (Exception e) {
 			e.printStackTrace();

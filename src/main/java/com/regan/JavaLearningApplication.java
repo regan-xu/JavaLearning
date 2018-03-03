@@ -1,4 +1,4 @@
-package com.regan.java;
+package com.regan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

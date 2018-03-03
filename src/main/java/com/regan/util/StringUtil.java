@@ -1,4 +1,4 @@
-package com.regan.java.util;
+package com.regan.util;
 
 public class StringUtil {
 
