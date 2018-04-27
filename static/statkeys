@@ -1,0 +1,1141 @@
+{
+  "stat-key": [
+    {
+      "key": "datastore|maxObserved_Read"
+    },
+    {
+      "key": "badge|risk_classic"
+    },
+    {
+      "key": "badge|waste"
+    },
+    {
+      "key": "cpu|workload"
+    },
+    {
+      "key": "badge|capacityRemaining"
+    },
+    {
+      "key": "badge|efficiency_classic"
+    },
+    {
+      "key": "badge|density"
+    },
+    {
+      "key": "badge|workload"
+    },
+    {
+      "key": "cpu|capacity_contentionPct"
+    },
+    {
+      "key": "cpu|capacity_usagepct_average"
+    },
+    {
+      "key": "System Attributes|active_alarms"
+    },
+    {
+      "key": "System Attributes|new_alarms"
+    },
+    {
+      "key": "System Attributes|active_ki_alarms"
+    },
+    {
+      "key": "vsphere-limit|isStress"
+    },
+    {
+      "key": "System Attributes|health"
+    },
+    {
+      "key": "diskspace|demand|object.demand.percent"
+    },
+    {
+      "key": "System Attributes|all_metrics"
+    },
+    {
+      "key": "cpu|utilization.range"
+    },
+    {
+      "key": "System Attributes|ki_metrics"
+    },
+    {
+      "key": "vsphere-limit|object.demand.without.size.recommendation"
+    },
+    {
+      "key": "System Attributes|child_active_ki_alarms"
+    },
+    {
+      "key": "System Attributes|total_alarms"
+    },
+    {
+      "key": "summary|capacityRemainingUsingConsumers_medium"
+    },
+    {
+      "key": "System Attributes|availability"
+    },
+    {
+      "key": "diskspace|capacityRemainingUsingConsumers_small"
+    },
+    {
+      "key": "System Attributes|child_all_metrics"
+    },
+    {
+      "key": "cpu|demand|ha.capacity"
+    },
+    {
+      "key": "System Attributes|child_ki_metrics"
+    },
+    {
+      "key": "mem|consumed|ha.capacity"
+    },
+    {
+      "key": "System Attributes|child_active_alarms"
+    },
+    {
+      "key": "System Attributes|child_new_alarms"
+    },
+    {
+      "key": "System Attributes|alert_count_info"
+    },
+    {
+      "key": "diskspace|capacityRemainingUsingConsumers_average"
+    },
+    {
+      "key": "System Attributes|total_alert_count"
+    },
+    {
+      "key": "summary|capacityRemainingUsingConsumers_small"
+    },
+    {
+      "key": "System Attributes|self_alert_count"
+    },
+    {
+      "key": "cpu|demand|wasteValue"
+    },
+    {
+      "key": "Instance Attributes|partial_data_send_duration"
+    },
+    {
+      "key": "diskspace|demand|consumer.demand_small"
+    },
+    {
+      "key": "System Attributes|change_index"
+    },
+    {
+      "key": "summary|capacityRemainingUsingConsumers_average"
+    },
+    {
+      "key": "System Attributes|alert_count_critical"
+    },
+    {
+      "key": "summary|capacityRemainingUsingConsumers_large"
+    },
+    {
+      "key": "System Attributes|alert_count_immediate"
+    },
+    {
+      "key": "diskspace|capacityRemainingUsingConsumers_medium"
+    },
+    {
+      "key": "System Attributes|alert_count_warning"
+    },
+    {
+      "key": "diskspace|capacityRemainingUsingConsumers_large"
+    },
+    {
+      "key": "Instance Attributes|new_metrics"
+    },
+    {
+      "key": "vsphere-limit|consumer.demand_average"
+    },
+    {
+      "key": "Instance Attributes|down_resources"
+    },
+    {
+      "key": "mem|consumed|consumer.demand_large"
+    },
+    {
+      "key": "Instance Attributes|relationship_updates"
+    },
+    {
+      "key": "mem|demand-waste|wastePercent"
+    },
+    {
+      "key": "Instance Attributes|reropted_events"
+    },
+    {
+      "key": "diskspace|demand|consumer.demand_average"
+    },
+    {
+      "key": "Instance Attributes|elapsed_collect_time"
+    },
+    {
+      "key": "diskspace|alloc|consumer.demand_average"
+    },
+    {
+      "key": "Instance Attributes|property_updates"
+    },
+    {
+      "key": "cpu|demand|consumer.demand_small"
+    },
+    {
+      "key": "Instance Attributes|collected_metrics"
+    },
+    {
+      "key": "cpu|demand|consumer.demand_medium"
+    },
+    {
+      "key": "Instance Attributes|observations"
+    },
+    {
+      "key": "mem|consumed|consumer.demand_average"
+    },
+    {
+      "key": "badge|efficiency_state"
+    },
+    {
+      "key": "cpu|demand|consumer.demand_average"
+    },
+    {
+      "key": "badge|risk_state"
+    },
+    {
+      "key": "cpu|demand|consumer.demand_large"
+    },
+    {
+      "key": "badge|health_state"
+    },
+    {
+      "key": "diskspace|demand|consumer.demand_large"
+    },
+    {
+      "key": "badge|risk"
+    },
+    {
+      "key": "diskspace|demand|consumer.demand_medium"
+    },
+    {
+      "key": "Instance Attributes|new_resources"
+    },
+    {
+      "key": "cpu|demand|wastePercent"
+    },
+    {
+      "key": "Instance Attributes|collected_resources"
+    },
+    {
+      "key": "cpu|demand|isWaste"
+    },
+    {
+      "key": "badge|compliance"
+    },
+    {
+      "key": "mem|consumed|consumer.demand_small"
+    },
+    {
+      "key": "badge|fault"
+    },
+    {
+      "key": "diskspace|alloc|consumer.demand_medium"
+    },
+    {
+      "key": "mem|demand-waste|wasteValue"
+    },
+    {
+      "key": "diskspace|alloc|consumer.demand_small"
+    },
+    {
+      "key": "diskspace|alloc|consumer.demand_large"
+    },
+    {
+      "key": "mem|waste"
+    },
+    {
+      "key": "badge|anomaly"
+    },
+    {
+      "key": "mem|consumed|consumer.demand_medium"
+    },
+    {
+      "key": "badge|efficiency"
+    },
+    {
+      "key": "cpu|demandPct"
+    },
+    {
+      "key": "vsphere-limit|consumer.demand_small"
+    },
+    {
+      "key": "badge|health"
+    },
+    {
+      "key": "mem|demand-waste|isWaste"
+    },
+    {
+      "key": "vsphere-limit|consumer.demand_large"
+    },
+    {
+      "key": "mem|capacityRemainingUsingConsumers_small"
+    },
+    {
+      "key": "cpu|capacityRemainingUsingConsumers_medium"
+    },
+    {
+      "key": "mem|capacityRemainingUsingConsumers_medium"
+    },
+    {
+      "key": "cpu|capacityRemainingUsingConsumers_large"
+    },
+    {
+      "key": "cpu|waste"
+    },
+    {
+      "key": "vsphere-limit|consumer.demand_medium"
+    },
+    {
+      "key": "cpu|capacityRemainingUsingConsumers_average"
+    },
+    {
+      "key": "cpu|capacityRemainingUsingConsumers_small"
+    },
+    {
+      "key": "badge|timeRemaining_whatif"
+    },
+    {
+      "key": "summary|timeRemaining_whatif"
+    },
+    {
+      "key": "mem|capacityRemainingUsingConsumers_large"
+    },
+    {
+      "key": "mem|capacityRemainingUsingConsumers_average"
+    },
+    {
+      "key": "summary|timeRemaining"
+    },
+    {
+      "key": "cpu|vm_capacity_provisioned"
+    },
+    {
+      "key": "mem|reservedCapacity_average"
+    },
+    {
+      "key": "net|maxObserved_Rx_KBps"
+    },
+    {
+      "key": "cpu|capacity_provisioned"
+    },
+    {
+      "key": "mem|host_usage"
+    },
+    {
+      "key": "net|usage_average"
+    },
+    {
+      "key": "cpu|iowait"
+    },
+    {
+      "key": "cpu|isWaste"
+    },
+    {
+      "key": "cpu|oversized"
+    },
+    {
+      "key": "diskspace-waste|activeNotShared|consumer.capacity"
+    },
+    {
+      "key": "diskspace-waste|snapshot|consumer.capacity"
+    },
+    {
+      "key": "diskspace|alloc|base.demand"
+    },
+    {
+      "key": "summary|isStress"
+    },
+    {
+      "key": "summary|poweredOffTimePercent"
+    },
+    {
+      "key": "summary|capacityRemaining_min"
+    },
+    {
+      "key": "diskspace|demand|overhead"
+    },
+    {
+      "key": "cpu|isStress"
+    },
+    {
+      "key": "mem|consumed|base.demand"
+    },
+    {
+      "key": "diskspace|alloc|overhead"
+    },
+    {
+      "key": "cpu|demand|consumer.powered.on.consumption"
+    },
+    {
+      "key": "summary|consumer.count"
+    },
+    {
+      "key": "vsphere-limit|base.demand"
+    },
+    {
+      "key": "mem|demand-waste|base.demand"
+    },
+    {
+      "key": "datastore|maxObserved_OIO"
+    },
+    {
+      "key": "diskspace|demand|actual.capacity"
+    },
+    {
+      "key": "cpu|demand|consumer.capacity"
+    },
+    {
+      "key": "diskspace|alloc|actual.capacity"
+    },
+    {
+      "key": "summary|capacity.provider.count"
+    },
+    {
+      "key": "mem|consumed|consumer.powered.on.consumption"
+    },
+    {
+      "key": "mem|demand-waste|consumer.capacity"
+    },
+    {
+      "key": "diskspace|demand|base.demand"
+    },
+    {
+      "key": "cpu|demand|powered.on.consumer.count"
+    },
+    {
+      "key": "mem|consumed|powered.on.consumer.count"
+    },
+    {
+      "key": "cpu|demand|ha.capacity.not.normalized"
+    },
+    {
+      "key": "vsphere-limit|actual.capacity"
+    },
+    {
+      "key": "cpu|alloc|ha.capacity.not.normalized"
+    },
+    {
+      "key": "cpu|demand|provider.consumption"
+    },
+    {
+      "key": "cpu|demand|base.demand"
+    },
+    {
+      "key": "mem|demand-waste|overhead"
+    },
+    {
+      "key": "diskspace-waste|activeNotShared|overhead"
+    },
+    {
+      "key": "mem|consumed|provider.consumption"
+    },
+    {
+      "key": "mem|demand-waste|actual.capacity"
+    },
+    {
+      "key": "badge|health_classic"
+    },
+    {
+      "key": "mem|consumed|ha.capacity.not.normalized"
+    },
+    {
+      "key": "mem|consumed|actual.capacity"
+    },
+    {
+      "key": "cpu|demand|actual.capacity"
+    },
+    {
+      "key": "vsphere-limit|overhead"
+    },
+    {
+      "key": "mem|demand|ha.capacity.not.normalized"
+    },
+    {
+      "key": "cpu|demand|overhead"
+    },
+    {
+      "key": "diskspace-waste|snapshot|overhead"
+    },
+    {
+      "key": "cpu|stress"
+    },
+    {
+      "key": "mem|alloc|ha.capacity.not.normalized"
+    },
+    {
+      "key": "mem|consumed|overhead"
+    },
+    {
+      "key": "mem|demand-waste|ha.capacity.not.normalized"
+    },
+    {
+      "key": "summary|isWaste"
+    },
+    {
+      "key": "summary|avg_vm_density"
+    },
+    {
+      "key": "badge|alert_count_critical"
+    },
+    {
+      "key": "badge|timeRemaining"
+    },
+    {
+      "key": "badge|alert_count_info"
+    },
+    {
+      "key": "badge|stress"
+    },
+    {
+      "key": "datastore|numberWriteAveraged_average"
+    },
+    {
+      "key": "diskspace|timeRemaining_whatif"
+    },
+    {
+      "key": "net:physical|usage_average"
+    },
+    {
+      "key": "diskspace|alloc|timeRemaining_whatif"
+    },
+    {
+      "key": "summary|number_vc_events"
+    },
+    {
+      "key": "summary|number_powered_on_cores"
+    },
+    {
+      "key": "mem|timeRemaining"
+    },
+    {
+      "key": "badge|alert_count_immediate"
+    },
+    {
+      "key": "summary|number_objs"
+    },
+    {
+      "key": "diskspace|alloc|timeRemaining"
+    },
+    {
+      "key": "net:virtual|usage_average"
+    },
+    {
+      "key": "summary|max_number_vms"
+    },
+    {
+      "key": "diskspace|timeRemaining"
+    },
+    {
+      "key": "summary|collector_mem_usage"
+    },
+    {
+      "key": "diskspace|demand|timeRemaining"
+    },
+    {
+      "key": "summary|derived_metrics_comp_time"
+    },
+    {
+      "key": "vsphere-limit|timeRemaining_whatif"
+    },
+    {
+      "key": "datastore|numberReadAveraged_average"
+    },
+    {
+      "key": "mem|consumed|timeRemaining_whatif"
+    },
+    {
+      "key": "mem|overhead_average"
+    },
+    {
+      "key": "cpu|demand|timeRemaining"
+    },
+    {
+      "key": "summary|vc_query_time"
+    },
+    {
+      "key": "mem|timeRemaining_whatif"
+    },
+    {
+      "key": "badge|alert_count_warning"
+    },
+    {
+      "key": "cpu|timeRemaining"
+    },
+    {
+      "key": "disk|totalLatency_average"
+    },
+    {
+      "key": "cpu|timeRemaining_whatif"
+    },
+    {
+      "key": "net|transmitted_average"
+    },
+    {
+      "key": "mem|consumed|timeRemaining"
+    },
+    {
+      "key": "net:physical|droppedPct"
+    },
+    {
+      "key": "net:virtual|droppedPct"
+    },
+    {
+      "key": "datastore|number_read|workload"
+    },
+    {
+      "key": "mem|consumed|workload"
+    },
+    {
+      "key": "net|received_average"
+    },
+    {
+      "key": "diskspace|demand|timeRemaining_whatif"
+    },
+    {
+      "key": "diskspace|total_usage"
+    },
+    {
+      "key": "vsphere-limit|timeRemaining"
+    },
+    {
+      "key": "datastore|read_average"
+    },
+    {
+      "key": "cpu|demand|timeRemaining_whatif"
+    },
+    {
+      "key": "datastore|write_average"
+    },
+    {
+      "key": "datastore|read|workload"
+    },
+    {
+      "key": "net|usage|workload"
+    },
+    {
+      "key": "diskspace|demand|workload"
+    },
+    {
+      "key": "datastore|write|workload"
+    },
+    {
+      "key": "net|transmitted|workload"
+    },
+    {
+      "key": "net|maxObserved_Tx_KBps"
+    },
+    {
+      "key": "net|received|workload"
+    },
+    {
+      "key": "mem|demand-waste|workload"
+    },
+    {
+      "key": "datastore|oio|workload"
+    },
+    {
+      "key": "disk|usage_average"
+    },
+    {
+      "key": "cpu|demandmhz"
+    },
+    {
+      "key": "disk|commandsAveraged_average"
+    },
+    {
+      "key": "vsphere-limit|workload"
+    },
+    {
+      "key": "cpu|wait"
+    },
+    {
+      "key": "summary|total_number_hosts"
+    },
+    {
+      "key": "cpu|demand|workload"
+    },
+    {
+      "key": "cpu|reservedCapacity_average"
+    },
+    {
+      "key": "datastore|number_write|workload"
+    },
+    {
+      "key": "summary|total_number_vms"
+    },
+    {
+      "key": "mem|demand|workload"
+    },
+    {
+      "key": "mem|host_demand"
+    },
+    {
+      "key": "summary|number_running_hosts"
+    },
+    {
+      "key": "summary|total_number_datastores"
+    },
+    {
+      "key": "net|workload"
+    },
+    {
+      "key": "summary|total_number_datacenters"
+    },
+    {
+      "key": "diskspace|total_capacity"
+    },
+    {
+      "key": "summary|number_running_vms"
+    },
+    {
+      "key": "diskspace-waste|wasteValue"
+    },
+    {
+      "key": "mem|host_usable"
+    },
+    {
+      "key": "mem|host_provisioned"
+    },
+    {
+      "key": "cpu|corecount_provisioned"
+    },
+    {
+      "key": "cpu|usagemhz_average"
+    },
+    {
+      "key": "summary|poweredOff"
+    },
+    {
+      "key": "summary|total_number_clusters"
+    },
+    {
+      "key": "summary|number_running_vcpus"
+    },
+    {
+      "key": "diskspace-waste|snapshot|wasteValue"
+    },
+    {
+      "key": "diskspace-waste|activeNotShared|wasteValue"
+    },
+    {
+      "key": "mem|host_contentionPct"
+    },
+    {
+      "key": "diskspace-waste|wastePercent"
+    },
+    {
+      "key": "cpu|capacityRemaining"
+    },
+    {
+      "key": "mem|isStress"
+    },
+    {
+      "key": "diskspace-waste|snapshot|wastePercent"
+    },
+    {
+      "key": "diskspace-waste|isWaste"
+    },
+    {
+      "key": "mem|capacityRemaining"
+    },
+    {
+      "key": "cpu|capacityRemaining_min"
+    },
+    {
+      "key": "diskspace-waste|activeNotShared|wastePercent"
+    },
+    {
+      "key": "mem|oversized"
+    },
+    {
+      "key": "summary|utilization.range"
+    },
+    {
+      "key": "cpu|overhead_average"
+    },
+    {
+      "key": "summary|oversized"
+    },
+    {
+      "key": "diskspace|alloc|capacityRemainingValue"
+    },
+    {
+      "key": "diskspace|alloc|object.demand.with.size.recommendation"
+    },
+    {
+      "key": "datastore|maxObserved_Write"
+    },
+    {
+      "key": "diskspace|alloc|object.capacity.not.normalized"
+    },
+    {
+      "key": "diskspace|alloc|object.capacity"
+    },
+    {
+      "key": "diskspace|alloc|object.demand.percent"
+    },
+    {
+      "key": "diskspace|capacityRemaining"
+    },
+    {
+      "key": "diskspace-waste|snapshot|consumer.capacity.background"
+    },
+    {
+      "key": "diskspace-waste|consumer.capacity"
+    },
+    {
+      "key": "diskspace|alloc|object.capacity.with.ha"
+    },
+    {
+      "key": "diskspace|alloc|capacityRemaining_min"
+    },
+    {
+      "key": "diskspace-waste|activeNotShared|consumer.capacity.background"
+    },
+    {
+      "key": "diskspace|alloc|actual.capacity.normalized"
+    },
+    {
+      "key": "cpu|vm_usagemhz_average"
+    },
+    {
+      "key": "diskspace|alloc|object.demand.without.size.recommendation"
+    },
+    {
+      "key": "diskspace|alloc|capacityRemaining"
+    },
+    {
+      "key": "diskspace|capacityRemaining_min"
+    },
+    {
+      "key": "diskspace|alloc|object.demand"
+    },
+    {
+      "key": "diskspace|alloc|size.recommendation"
+    },
+    {
+      "key": "diskspace|utilization.range"
+    },
+    {
+      "key": "cpu|demand|object.demand.unit"
+    },
+    {
+      "key": "diskspace|demand|object.demand.without.size.recommendation"
+    },
+    {
+      "key": "cpu|optimal.consumer.per.provider"
+    },
+    {
+      "key": "mem|optimal.consumer.per.provider"
+    },
+    {
+      "key": "mem|consumed|object.demand"
+    },
+    {
+      "key": "vsphere-limit|object.demand.with.size.recommendation"
+    },
+    {
+      "key": "cpu|demand|consumer.capacity.background"
+    },
+    {
+      "key": "cpu|demand|object.demand"
+    },
+    {
+      "key": "cpu|demand_without_overhead"
+    },
+    {
+      "key": "vsphere-limit|object.demand"
+    },
+    {
+      "key": "cpu|demand|object.demand.without.size.recommendation"
+    },
+    {
+      "key": "cpu|density"
+    },
+    {
+      "key": "mem|demand-waste|oversized"
+    },
+    {
+      "key": "cpu|demand|object.capacity"
+    },
+    {
+      "key": "cpu|demand|density"
+    },
+    {
+      "key": "datastore|demand_oio"
+    },
+    {
+      "key": "vsphere-limit|stress"
+    },
+    {
+      "key": "mem|consumed|actual.capacity.normalized"
+    },
+    {
+      "key": "mem|consumed|object.demand.with.size.recommendation"
+    },
+    {
+      "key": "mem|host_usagePct"
+    },
+    {
+      "key": "mem|consumed|object.capacity.not.normalized"
+    },
+    {
+      "key": "cpu|demand|object.capacity.not.normalized"
+    },
+    {
+      "key": "mem|consumed|isStress"
+    },
+    {
+      "key": "cpu|demand|object.capacity.with.ha"
+    },
+    {
+      "key": "summary|optimal.consumer.per.provider"
+    },
+    {
+      "key": "mem|consumed|oversized"
+    },
+    {
+      "key": "vsphere-limit|oversized"
+    },
+    {
+      "key": "diskspace|demand|actual.capacity.normalized"
+    },
+    {
+      "key": "vsphere-limit|object.capacity"
+    },
+    {
+      "key": "mem|demand-waste|size.recommendation"
+    },
+    {
+      "key": "cpu|demand|underusedpercent"
+    },
+    {
+      "key": "cpu|demand|object.demand.without.size.recommendation.unit"
+    },
+    {
+      "key": "cpu|demand|object.demand.percent"
+    },
+    {
+      "key": "diskspace|demand|capacityRemaining_min"
+    },
+    {
+      "key": "vsphere-limit|object.capacity.not.normalized"
+    },
+    {
+      "key": "mem|consumed|optimal.vConsumption.per.pConsumption"
+    },
+    {
+      "key": "mem|consumed|capacityRemainingValue"
+    },
+    {
+      "key": "mem|consumed|object.demand.without.size.recommendation"
+    },
+    {
+      "key": "vsphere-limit|capacityRemaining_min"
+    },
+    {
+      "key": "mem|consumed|object.capacity"
+    },
+    {
+      "key": "net|maxObserved_KBps"
+    },
+    {
+      "key": "cpu|demand|object.demand.with.size.recommendation"
+    },
+    {
+      "key": "mem|consumed|capacityRemaining_min"
+    },
+    {
+      "key": "mem|consumed|density"
+    },
+    {
+      "key": "diskspace|total_provisioned"
+    },
+    {
+      "key": "mem|consumed|capacityRemaining"
+    },
+    {
+      "key": "vsphere-limit|object.demand.without.size.recommendation.percent"
+    },
+    {
+      "key": "diskspace|workload"
+    },
+    {
+      "key": "vsphere-limit|size.recommendation"
+    },
+    {
+      "key": "mem|consumed|underusedpercent"
+    },
+    {
+      "key": "cpu|demand|vConsumption.per.pConsumption"
+    },
+    {
+      "key": "cpu|demand|object.demand.without.size.recommendation.percent"
+    },
+    {
+      "key": "mem|utilization.range"
+    },
+    {
+      "key": "diskspace|demand|object.capacity.not.normalized"
+    },
+    {
+      "key": "cpu|demand|capacityRemainingValue"
+    },
+    {
+      "key": "diskspace|demand|size.recommendation"
+    },
+    {
+      "key": "mem|consumed|size.recommendation"
+    },
+    {
+      "key": "mem|consumed|object.demand.without.size.recommendation.percent"
+    },
+    {
+      "key": "cpu|demand|actual.capacity.normalized"
+    },
+    {
+      "key": "mem|workload"
+    },
+    {
+      "key": "cpu|demand|capacityRemaining"
+    },
+    {
+      "key": "mem|consumed|optimal.consumer.per.provider"
+    },
+    {
+      "key": "cpu|demand|size.recommendation"
+    },
+    {
+      "key": "datastore|workload"
+    },
+    {
+      "key": "cpu|demand|capacityRemaining_min"
+    },
+    {
+      "key": "vsphere-limit|capacityRemainingValue"
+    },
+    {
+      "key": "diskspace|demand|object.capacity.with.ha"
+    },
+    {
+      "key": "diskspace|demand|capacityRemaining"
+    },
+    {
+      "key": "mem|consumed|stress"
+    },
+    {
+      "key": "diskspace|demand|oversized"
+    },
+    {
+      "key": "cpu|demand|consumption-unit-count"
+    },
+    {
+      "key": "mem|consumed|vConsumption.per.pConsumption"
+    },
+    {
+      "key": "summary|number_poweredOff_vms"
+    },
+    {
+      "key": "mem|isWaste"
+    },
+    {
+      "key": "mem|capacityRemaining_min"
+    },
+    {
+      "key": "mem|host_systemUsage"
+    },
+    {
+      "key": "diskspace-waste|snapshot|isWaste"
+    },
+    {
+      "key": "diskspace-waste|activeNotShared|isWaste"
+    },
+    {
+      "key": "mem|stress"
+    },
+    {
+      "key": "diskspace|demand|capacityRemainingValue"
+    },
+    {
+      "key": "cpu|demand|optimal.vConsumption.per.pConsumption"
+    },
+    {
+      "key": "datastore|maxObserved_NumberRead"
+    },
+    {
+      "key": "vsphere-limit|object.capacity.with.ha"
+    },
+    {
+      "key": "diskspace|demand|object.demand"
+    },
+    {
+      "key": "mem|demand-waste|object.demand.with.size.recommendation"
+    },
+    {
+      "key": "cpu|demand|oversized"
+    },
+    {
+      "key": "mem|demand-waste|object.capacity.with.ha"
+    },
+    {
+      "key": "mem|consumed|object.demand.percent"
+    },
+    {
+      "key": "vsphere-limit|object.demand.percent"
+    },
+    {
+      "key": "vsphere-limit|capacityRemaining"
+    },
+    {
+      "key": "mem|demand-waste|actual.capacity.normalized"
+    },
+    {
+      "key": "cpu|demand|optimal.consumer.per.provider"
+    },
+    {
+      "key": "mem|demand-waste|underusedpercent"
+    },
+    {
+      "key": "vsphere-limit|actual.capacity.normalized"
+    },
+    {
+      "key": "datastore|maxObserved_NumberWrite"
+    },
+    {
+      "key": "summary|consumer.count.per.provider.count"
+    },
+    {
+      "key": "vsphere-limit|underusedpercent"
+    },
+    {
+      "key": "cpu|demand|stress"
+    },
+    {
+      "key": "mem|consumed|object.capacity.with.ha"
+    },
+    {
+      "key": "diskspace|demand|object.capacity"
+    },
+    {
+      "key": "diskspace|demand|underusedpercent"
+    },
+    {
+      "key": "cpu|demand|isStress"
+    },
+    {
+      "key": "diskspace|demand|object.demand.with.size.recommendation"
+    },
+    {
+      "key": "mem|demand-waste|consumer.capacity.background"
+    },
+    {
+      "key": "mem|density"
+    }
+  ]
+}
